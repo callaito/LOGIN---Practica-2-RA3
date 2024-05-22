@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\LOGIN GAMALIER - PRATICA 2 RA3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8B8F85-9D17-4576-B148-0FD5EE0BC68A}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\pc\\desktop\\login gamalier - pratica 2 ra3\\capapresentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D8B8F85-9D17-4576-B148-0FD5EE0BC68A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8B8F85-9D17-4576-B148-0FD5EE0BC68A}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\pc\\desktop\\login gamalier - pratica 2 ra3\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D8B8F85-9D17-4576-B148-0FD5EE0BC68A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C2CCCD-A59E-41A7-8D2A-F5739CF82211}|CapaDatos\\CapaDatos.csproj|c:\\users\\pc\\desktop\\login gamalier - pratica 2 ra3\\capadatos\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C2CCCD-A59E-41A7-8D2A-F5739CF82211}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8B8F85-9D17-4576-B148-0FD5EE0BC68A}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\pc\\desktop\\login gamalier - pratica 2 ra3\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D8B8F85-9D17-4576-B148-0FD5EE0BC68A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C2CCCD-A59E-41A7-8D2A-F5739CF82211}|CapaDatos\\CapaDatos.csproj|c:\\users\\pc\\desktop\\login gamalier - pratica 2 ra3\\capadatos\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C2CCCD-A59E-41A7-8D2A-F5739CF82211}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AB2963-7C03-4632-9FD4-DAA729FE5CAB}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\pc\\desktop\\login gamalier - pratica 2 ra3\\capanegocio\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AB2963-7C03-4632-9FD4-DAA729FE5CAB}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MENUPRINCIPAL.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\LOGIN GAMALIER - PRATICA 2 RA3\\CapaPresentacion\\MENUPRINCIPAL.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\MENUPRINCIPAL.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\LOGIN GAMALIER - PRATICA 2 RA3\\CapaPresentacion\\MENUPRINCIPAL.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\MENUPRINCIPAL.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:57:14.123Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LOGIN.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\LOGIN GAMALIER - PRATICA 2 RA3\\CapaPresentacion\\LOGIN.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\LOGIN.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\LOGIN GAMALIER - PRATICA 2 RA3\\CapaPresentacion\\LOGIN.cs",
+              "RelativeToolTip": "CapaPresentacion\\LOGIN.cs",
+              "ViewState": "AQIAAD8AAAAAFjMzMzMMwEoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:44:09.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDao.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\LOGIN GAMALIER - PRATICA 2 RA3\\CapaDatos\\UserDao.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\UserDao.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\LOGIN GAMALIER - PRATICA 2 RA3\\CapaDatos\\UserDao.cs",
+              "RelativeToolTip": "CapaDatos\\UserDao.cs",
+              "ViewState": "AQIAAAYAAADgKDMzMzMLwBMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:37:38.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConexionSQL.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\LOGIN GAMALIER - PRATICA 2 RA3\\CapaDatos\\ConexionSQL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\ConexionSQL.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\LOGIN GAMALIER - PRATICA 2 RA3\\CapaDatos\\ConexionSQL.cs",
+              "RelativeToolTip": "CapaDatos\\ConexionSQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:30:08.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\LOGIN GAMALIER - PRATICA 2 RA3\\CapaNegocio\\User.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\User.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\LOGIN GAMALIER - PRATICA 2 RA3\\CapaNegocio\\User.cs",
+              "RelativeToolTip": "CapaNegocio\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:27:28.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LOGIN.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\LOGIN GAMALIER - PRATICA 2 RA3\\CapaPresentacion\\LOGIN.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\LOGIN.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\LOGIN GAMALIER - PRATICA 2 RA3\\CapaPresentacion\\LOGIN.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\LOGIN.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:23:10.48Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
